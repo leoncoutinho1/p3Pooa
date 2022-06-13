@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andre Marques",
+      "location": "Brasil"
+    },
+    {
+      "id": 2,
+      "name": "Julio",
+      "location": "Canadá"
+    },
+    {
+      "id": "3",
+      "name": "dsfdsfsdf",
+      "location": "Brasil"
+    }
+  ],
+  "frutas": [
+    {
+      "id": 1,
+      "nome": "Mamão",
+      "calorias": "50"
+    },
+    {
+      "id": 2,
+      "nome": "Carambola",
+      "calorias": "20"
+    },
+    {
+      "id": 3,
+      "nome": "Melancia",
+      "calorias": "50"
+    },
+    {
+      "id": 5,
+      "nome": "Banana",
+      "calorias": "10"
+    }
+  ]
+}
